@@ -38,13 +38,6 @@ class UserPreference private constructor(private val dataStore: DataStore<Prefer
         }
     }
 
-//    suspend fun showStory(storys: List<ListStoryItem>){
-//        val story = Gson().toJson(storys)
-//        dataStore.edit { preference ->
-//            preference[STORY_KEY] = story
-//        }
-//    }
-
     companion object {
         @Volatile
         private var INSTANCE: UserPreference? = null
@@ -52,7 +45,6 @@ class UserPreference private constructor(private val dataStore: DataStore<Prefer
         private val EMAIL_KEY = stringPreferencesKey("email")
         private val TOKEN_KEY = stringPreferencesKey("token")
         private val IS_LOGIN_KEY = booleanPreferencesKey("isLogin")
-        private val STORY_KEY = stringPreferencesKey("story")
 
         fun getInstance(dataStore: DataStore<Preferences>): UserPreference {
             return INSTANCE ?: synchronized(this) {
