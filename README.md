@@ -24,6 +24,8 @@ A Aplication built with MVVM architecture, this aplication make for user can sha
 
 
 ## Privew StoryApp
-<img src="https://imgur.com/cVqoSin.png" width="20%" style="margin-right:12px;" />
-<img src="https://imgur.com/4DgvLdY.png" width="20%"/>
-<img src="https://imgur.com/sG8odeL.png" width="20%" />
+<p>
+  <img src="https://imgur.com/cVqoSin.png" width="20%" style="margin-right:12px;" />
+  <img src="https://imgur.com/4DgvLdY.png" width="20%"/>
+  <img src="https://imgur.com/sG8odeL.png" width="20%" />
+</p>
