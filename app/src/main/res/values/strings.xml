@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">"StoryApp"</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Pengen curhat tentang berbagai hal? mulai dari ngoding hingga percintaan? App ini lah yang paling tepat untuk kamu!!!</string>
+    <string name="title_welcome_page">Selamat datang di Story Tahilalats!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk curhat disini?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat curhat di Tahilalats.</string>
+    <string name="logout">Keluar</string>
+    <string name="detail_activity_name">Nama</string>
+    <string name="detail_activity_description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="hint_add_story">Deskripsi</string>
+    <string name="appwidget_text">STORY APP</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="option">Pengaturan</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="start_point">Start Point</string>
+    <string name="enable_location">Nyalakan Lokasi</string>
+    <string name="retry">Coba Lagi</string>
+</resources>

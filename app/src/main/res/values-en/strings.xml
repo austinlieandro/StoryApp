@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"StoryApp"</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Want to talk about various things? starting from coding to romance? This app is the right one for you!!</string>
+    <string name="title_welcome_page">Welcome to Story Tahilalats!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Enter your data first</string>
+    <string name="title_login_page">Are you ready to vent here?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Have a good chat at Tahilalats.</string>
+    <string name="logout">Logout</string>
+    <string name="detail_activity_name">Name</string>
+    <string name="detail_activity_description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="hint_add_story">Description</string>
+    <string name="appwidget_text">STORY APP</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="option">Option</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="start_point">Start Point</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="retry">Retry</string>
+</resources>
