@@ -23,7 +23,7 @@ A Aplication built with MVVM architecture, this aplication make for user can sha
 - Using unit testing for ensure when fetching the data return its non-null & check for empy data & ensure the return is no data message
 
 
-## Privew StoryApp
+## Preview StoryApp
 <p>
   <img src="https://imgur.com/cVqoSin.png" width="30%"/>
   <img src="https://imgur.com/4DgvLdY.png" width="30%"/>
